@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6d1e567.css",
-    "main.js": "/static/js/main.c9fe456a.js",
+    "main.css": "/static/css/main.cba34ef6.css",
+    "main.js": "/static/js/main.e1996266.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/coding-on-laptop.jpg": "/static/media/coding-on-laptop.f2aae52f9d6dc919b5b8.jpg",
+    "static/media/Car-Rental-Project.png": "/static/media/Car-Rental-Project.675f4e21712f6ac80cb8.png",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
@@ -18,12 +19,12 @@
     "static/media/css.svg": "/static/media/css.9cecabbf6ce67609c48bc4f280a11002.svg",
     "index.html": "/index.html",
     "static/media/html.svg": "/static/media/html.6e7b1b463015c056aeb9a624c8dc2876.svg",
-    "main.c6d1e567.css.map": "/static/css/main.c6d1e567.css.map",
-    "main.c9fe456a.js.map": "/static/js/main.c9fe456a.js.map",
+    "main.cba34ef6.css.map": "/static/css/main.cba34ef6.css.map",
+    "main.e1996266.js.map": "/static/js/main.e1996266.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6d1e567.css",
-    "static/js/main.c9fe456a.js"
+    "static/css/main.cba34ef6.css",
+    "static/js/main.e1996266.js"
   ]
 }
